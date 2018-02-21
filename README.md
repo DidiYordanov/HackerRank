@@ -1,5 +1,5 @@
-# HackerRank
-Algorithms and Data Structures
+# HackerRank 
+### Algorithms and Data Structures
 
 * Algorithms 
   * Warmup
